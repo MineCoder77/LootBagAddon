@@ -1,0 +1,13 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "lb:lootbag",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": "lb:lootbag",
+            "minecraft:render_offsets": "miscellaneous"
+        }
+    }
+}

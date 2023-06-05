@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"O1nekon"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "LootBags",
+		"description": "Сумки с лутом!",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "9c9e3525-671f-4aaf-93e6-b033ded55648",
+		"version": [
+			1,
+			2,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "969c4432-1fe4-4f1d-8945-834610e546a3",
+			"version": [
+				1,
+				2,
+				0
+			]
+		}
+	]
+}
